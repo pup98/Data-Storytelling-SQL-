@@ -3,7 +3,7 @@
 * Dataset: Datasets provide model-specific fuel consumption ratings and estimated carbon dioxide emissions for new light-duty vehicles for retail sale in Canada.
 link: [Canada cars fuel consumption data](https://www.kaggle.com/datasets/ahmettyilmazz/fuel-consumption)
 
-Source to learn about SQLALchemy and database connections: (https://github.com/hackersandslackers/sqlalchemy-tutorial)
+Learn more about SQLALchemy and database connections: (https://github.com/hackersandslackers/sqlalchemy-tutorial)
 
 Workflow: <br />
 * Learn ways to connect MySQL Database with python.
